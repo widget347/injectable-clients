@@ -1,1 +1,1 @@
-slinky does not inject with other clients combined, fixing this later
+fixed --slinky does not inject with other clients combined, fixing this later--
